@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.mcp.service.impl.UserServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.743 s -- in com.example.mcp.service.impl.UserServiceImplTest
