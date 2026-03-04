@@ -1,0 +1,10 @@
+server:
+  port: 8081
+  ai:
+    mcp:
+      client:
+        enabled: true
+        sse:
+          connections:
+            server1:
+              url: http://localhost:8080
